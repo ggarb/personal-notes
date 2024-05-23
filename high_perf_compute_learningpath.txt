@@ -1,0 +1,41 @@
+Step 1: Introduction to High-Performance Computing
+Objective: Understand the fundamental concepts of HPC including parallel computing architectures, performance optimization, and scalability.
+Textbook: "Introduction to High Performance Computing for Scientists and Engineers" by Georg Hager and Gerhard Wellein
+Duration: 2 months
+Goal: Grasp the basics of HPC architectures, parallel algorithms, and optimization techniques.
+Project Idea: Install and configure an HPC environment using open-source tools on local machines or cloud infrastructure.
+
+Step 2: Parallel Programming
+Objective: Learn to program using parallel computing models and understand different parallel programming paradigms.
+Textbook: "Parallel Programming in C with MPI and OpenMP" by Michael J. Quinn
+Duration: 2 months
+Goal: Develop skills in writing parallel programs using MPI (Message Passing Interface) and OpenMP (Open Multi-Processing).
+Project Idea: Write a parallel program for matrix multiplication or sorting algorithms using both MPI and OpenMP. Benchmark the performance gains on multi-core processors.
+
+Step 3: Performance Optimization
+Objective: Dive deeper into techniques for optimizing code to enhance performance on HPC systems.
+Textbook: "High Performance Parallelism Pearls" by James Reinders and Jim Jeffers
+Duration: 1 month
+Goal: Learn advanced optimization techniques for parallel programming, focusing on maximizing data locality, minimizing communication overhead, and efficient use of hardware resources.
+Project Idea: Optimize an existing scientific computation code, profiling and tuning to reduce execution time and increase efficiency.
+
+Step 4: GPU Computing
+Objective: Understand the use of GPUs for high-performance computing and learn CUDA or OpenCL for GPU programming.
+Textbook: "Programming Massively Parallel Processors: A Hands-on Approach" by David B. Kirk and Wen-mei W. Hwu
+Duration: 2 months
+Goal: Gain proficiency in using GPUs for computing tasks that require high parallelism.
+Project Idea: Develop a GPU-based application for image processing or deep learning tasks, utilizing CUDA or OpenCL.
+
+Step 5: Advanced HPC Applications
+Objective: Explore advanced applications and case studies in HPC across various domains such as bioinformatics, physics, and climate modeling.
+Textbook: "Scientific Parallel Computing" by Scott R. Fulton, Larry Scott, and Terry Clark
+Duration: 2 months
+Goal: Understand how HPC is applied in real-world scientific research and industrial applications.
+Project Idea: Implement a parallel solution for a complex problem in a chosen field of interest, such as simulating molecular dynamics or weather prediction models.
+
+Step 6: High-Performance Data Analysis
+Objective: Learn about high-performance data analytics, focusing on handling and analyzing large datasets efficiently.
+Textbook: "Data-Intensive Text Processing with MapReduce" by Jimmy Lin and Chris Dyer
+Duration: 1 month
+Goal: Master techniques for data processing and analytics on HPC systems using frameworks like Hadoop and Spark.
+Project Idea: Analyze a large dataset using Hadoop or Spark, focusing on performance tuning and scalability.

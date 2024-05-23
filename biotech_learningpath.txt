@@ -1,0 +1,48 @@
+Step 1: Foundation in Biology
+Objective: Acquire basic biological concepts with an emphasis on biotechnology.
+Textbook: "Biotechnology for Beginners" by Reinhard Renneberg
+Supplemental Textbook: "Molecular Biology of the Cell" by Bruce Alberts et al. for more in-depth molecular biology.
+Duration: 2-3 months
+Project Idea: Summarize key technologies discussed in the book and their applications. Create a blog or a series of posts explaining biotech concepts to non-specialists.
+
+Step 2: Introduction to Bioinformatics
+Objective: Understand the application of CS to biological data.
+Textbook: "Bioinformatics Algorithms: An Active Learning Approach" by Phillip Compeau & Pavel Pevzner
+Duration: 3-4 months
+Project Idea: Use Python or R to implement basic bioinformatics algorithms such as sequence alignment or motif finding. Consider using datasets from sources like NCBI.
+
+Step 3: Dive into Machine Learning
+Objective: Master machine learning techniques with a focus on applications in biotech.
+Textbook: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
+Duration: 3-4 months
+Project Idea: Apply machine learning models to a dataset involving biological data, such as gene expression profiles or protein structures.
+
+Step 4: Specialization in Genomics and Genetics
+Objective: Develop an understanding of genetics and genomics.
+Textbook: "Genetics: A Conceptual Approach" by Benjamin A. Pierce
+Supplemental Textbook: "Introduction to Genomics" by Arthur M. Lesk for a focus on genomics.
+Duration: 3 months
+Project Idea: Analyze a genomic dataset, perhaps focusing on a specific genetic trait or disease, and present your findings.
+
+Step 5: Practical Applications of ML in Bioinformatics
+Objective: Apply machine learning in bioinformatics contexts.
+Textbook: "Machine Learning for Bioinformatics" by Jason T. L. Wang et al.
+Duration: 2-3 months
+Project Idea: Develop a deep learning model to predict protein structures from sequences or to classify DNA sequences from different species.
+
+Step 6: Systems Biology
+Objective: Explore computational models of biological systems.
+Textbook: "Systems Biology: A Textbook" by Edda Klipp et al.
+Duration: 3 months
+Project Idea: Model a simple biological network, such as a metabolic pathway or gene regulatory network, using tools like COPASI or CellDesigner.
+
+
+Additional Tips:
+Hands-On Projects: Throughout your learning, try to engage with projects that allow you to apply what you’ve learned, perhaps using public datasets like those from the NCBI or EMBL.
+Networking: Join biotech and bioinformatics communities online (LinkedIn groups, Reddit, BioStars) and offline (conferences, meetups).
+Stay Updated: Follow journals and websites like Nature Biotechnology, Bioinformatics.org, and others to stay updated with the latest advancements and research.
+
+
+Thoughts:
+This would be interesting to learn about, but is right now the time to do it. I'm not looking to get into this field right now. But also if I wait when will I do it. When will I think it is time to start working on this?
+Is there more value for my career to further my understanding in other concepts of CS in things like networking, OS, Systems
